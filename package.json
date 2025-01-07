@@ -1,5 +1,6 @@
 {
-  "name": "",
+  "name": "maroof-sh",
+  "description": "Maroof Shittu Software Engineer Portfolio",
   "private": true,
   "sideEffects": false,
   "type": "module",
